@@ -5,3 +5,4 @@ repository to house scripts that were not useful enough to earn a place in there
 ## Overview
  - `recursive.sh`: a script that calls itself.
  - `self_destruct.sh`: a script that deletes itself.
+ - `suicidal.sh`: a script that kills the process that's executing it, i.e. itself.
