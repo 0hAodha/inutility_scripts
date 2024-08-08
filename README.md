@@ -3,4 +3,5 @@ This repository was created as a sister repository to the more practical [`utili
 repository to house scripts that were not useful enough to earn a place in there.
 
 ## Overview of Scripts
+ - `recursive.sh`: a script that calls itself
  - `suicidal_script.sh`: a script that deletes itself.
