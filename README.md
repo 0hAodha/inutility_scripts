@@ -3,6 +3,7 @@ This repository was created as a sister repository to the more practical [`utili
 repository to house scripts that were not useful enough to earn a place in there.
 
 ## Overview
+ - `disappearing.sh`: a script that deletes its source code while executing and replaces it when exiting, hence "disappearing" while running and re-appearing once finished.
  - `recursive.sh`: a script that calls itself.
  - `self_destruct.sh`: a script that deletes itself.
  - `suicidal.sh`: a script that kills the process that's executing it, i.e. itself.
