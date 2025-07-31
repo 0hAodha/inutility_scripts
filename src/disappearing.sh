@@ -9,4 +9,4 @@ for i in $(seq 1 10); do
     sleep 1
 done
 
-echo "$file_contents" > "$0"
+echo "$file_contents" > "$0" && chmod +x "$0"
